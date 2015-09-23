@@ -1,0 +1,65 @@
+E:\StarMan\StarMan\bin\Release\StarMan.exe
+E:\StarMan\StarMan\bin\Release\StarMan.pdb
+E:\StarMan\StarMan\obj\Release\StarMan.csprojResolveAssemblyReference.cache
+E:\StarMan\StarMan\obj\Release\StarMan.add_userBD.resources
+E:\StarMan\StarMan\obj\Release\StarMan.Adm_User.resources
+E:\StarMan\StarMan\obj\Release\StarMan.Clients.resources
+E:\StarMan\StarMan\obj\Release\StarMan.Client_edit.resources
+E:\StarMan\StarMan\obj\Release\StarMan.ConnectTo_BD.resources
+E:\StarMan\StarMan\obj\Release\StarMan.Discounts.resources
+E:\StarMan\StarMan\obj\Release\StarMan.edit_userBD.resources
+E:\StarMan\StarMan\obj\Release\StarMan.Money_add.resources
+E:\StarMan\StarMan\obj\Release\StarMan.Property_connect.resources
+E:\StarMan\StarMan\obj\Release\StarMan.StreamPro.resources
+E:\StarMan\StarMan\obj\Release\StarMan.Properties.Resources.resources
+E:\StarMan\StarMan\obj\Release\StarMan.Service.resources
+E:\StarMan\StarMan\obj\Release\StarMan._remove_Clients.resources
+E:\StarMan\StarMan\obj\Release\StarMan.Сurrency.resources
+E:\StarMan\StarMan\obj\Release\StarMan.csproj.GenerateResource.Cache
+E:\StarMan\StarMan\obj\Release\StarMan.exe
+E:\StarMan\StarMan\obj\Release\StarMan.pdb
+E:\StarMan-Готовая прога - копия\StarMan\bin\Release\StarMan.exe.config
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.exe
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.pdb
+E:\StarMan-Готовая прога - копия\StarMan\bin\Release\Image\Del_32.jpg
+E:\StarMan-Готовая прога - копия\StarMan\bin\Release\Image\Add_32.jpg
+E:\StarMan-Готовая прога - копия\StarMan\bin\Release\Image\Redackt_32.jpg
+E:\StarMan-Готовая прога - копия\StarMan\bin\Release\Image\Money_32.jpg
+E:\StarMan-Готовая прога - копия\StarMan\bin\Release\Image\block_32.jpg
+E:\StarMan-Готовая прога - копия\StarMan\bin\Release\Image\_block32.png
+E:\StarMan-Готовая прога - копия\StarMan\bin\Release\Image\__remove_32.jpg
+E:\StarMan-Готовая прога - копия\StarMan\bin\Release\Image\_delete32.png
+E:\StarMan-Готовая прога - копия\StarMan\bin\Release\Image\_del32.png
+E:\StarMan-Готовая прога - копия\StarMan\bin\Release\StarMan.exe
+E:\StarMan-Готовая прога - копия\StarMan\bin\Release\StarMan.pdb
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.csprojResolveAssemblyReference.cache
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.add_userBD.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.Adm_User.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan._delete_userBD.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.Level_bns.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.MoneyCateg_Reports.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.Bonus.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.Clients.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.Client_edit.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.ConnectTo_BD.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.edit_userBD.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.Money_add.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.Property_connect.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.StreamPro.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.Properties.Resources.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.Service.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan._info.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan._remove_Clients.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.Сurrency.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan._deleteService.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan._deleteCurrency.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan._UsersReports.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan._ExpensesReports.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan._All_Reports.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan._Kacca_Reports.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan._Buh_Reports.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan._Expenses.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan._Service_Report.resources
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\StarMan.csproj.GenerateResource.Cache
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\RdlCompile.cache
+E:\StarMan-Готовая прога - копия\StarMan\obj\Release\RdlCompile.compiled
